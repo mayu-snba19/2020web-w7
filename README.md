@@ -1,7 +1,7 @@
 # 2020web-w7
 
-[Google先生](https://www.google.co.jp/)
+[自分のgithub](cookie-sample.html)
 
-[test](chrome://settings/siteData)
+[kishi4web](https://kishi4web.github.io/2020web-w7/cookie-sample.html)
 
 
